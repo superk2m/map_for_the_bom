@@ -3,6 +3,31 @@
 
 {% block app_navigation_items %}
   <li><a href="{% url 'my_first_app:echo_name' %}">Name Echoer</a></li>
+<select onchange="dropdown_clicked(this.value);">
+			<option value='JERUSALEM'>JERUSALEM</option>
+			<option value='ARAD'>ARAD</option>
+			<option value='TIMNA'>TIMNA</option>
+			<option value='ELLAT-AQABA'>ELLAT-AQABA</option>
+			<option value='WADI TAYYEB AL-ISM(VALLEY OF LEMUEL)'>WADI TAYYEB AL-ISM(VALLEY OF LEMUEL)</option>
+			<option value='YATHRIB'>YATHRIB</option>
+			<option value='NAJRAN'>NAJRAN</option>
+			<option value='NAHOM'>NAHOM</option>
+			<option value='MARIB'>MARIB</option>
+			<option value='TIMNA'>TIMNA</option>
+			<option value='SHABWAH'>SHABWAH</option>
+			<option value='LAND OF BOUNTIFUL'>LAND OF BOUNTIFUL</option>
+			<option value='LAND OF FIRST INHERITANCE'>LAND OF FIRST INHERITANCE</option>
+  <option value="POSSIBLE NEPHI'S TEMPLE">POSSIBLE NEPHI'S TEMPLE</option>
+  <option value='ZARAHEMLA'>ZARAHEMLA</option>
+  <option value='HILL CUMORAH'>HILL CUMORAH</option>
+  <option value='NARROW PASS'>NARROW PASS</option>
+  <option value='WATERS OF MORMON'>WATERS OF MORMON</option>
+  <option value='MANTI'>MANTI</option>
+  <option value="ZELPH'S MOUND">ZELPH'S MOUND</option>
+  <option value='NARROW STRIP OF WILDERNESS'>NARROW STRIP OF WILDERNESS</option>
+  <option value='HEAD OF SIDON'>HEAD OF SIDON</option>
+  
+		</select>
 {% endblock %}
 
 {% block app_content %}

@@ -4,7 +4,8 @@
 var container = document.getElementById('popup');
 var content = document.getElementById('popup-content');
 var closer = document.getElementById('popup-closer');
-
+var vector_point;
+var map;
 $( document ).ready(function() {
 
 
@@ -35,7 +36,7 @@ $( document ).ready(function() {
       })
     });
 
-       var vector_point= new ol.layer.Vector({
+       vector_point= new ol.layer.Vector({
       source: new ol.source.KML({
         projection: projection,
         url: '/static/my_first_app/kml/BOMLocation.kml'
@@ -48,7 +49,7 @@ $( document ).ready(function() {
         });
 
 
-    var map = new ol.Map({
+    map = new ol.Map({
       layers: [esri_layer, vector_polygon_land, vector_polyline_journey, vector_point],
       overlays: [overlay],
       target: document.getElementById('map'),
@@ -77,4 +78,23 @@ $( document ).ready(function() {
         content.innerHTML = displaycontent;
         }
         });
+
+
+
 });
+
+        function dropdown_clicked(ID) {
+           for (var i=0; i<vector_point.getSource().getFeatures().length; i++)
+           {
+            feature = vector_point.getSource().getFeatures()[i]
+            if(feature.get("name")==ID)
+            {
+                myCoords = feature.getGeometry().getCoordinates();
+                myView = map.getView();
+                myView.setCenter(myCoords);
+                myView.setZoom(15);
+            };
+           };
+        }
+
+
