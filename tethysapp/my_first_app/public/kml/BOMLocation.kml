@@ -1364,6 +1364,18 @@ Possibly Nephi's Temple (2 Nephi 5:16)</value>
     </Placemark>
     <Placemark id="ID_00014">
       <name>ZARAHEMLA</name>
+ <ExtendedData>
+      <Data name="story">
+        <value>
+        Let them build up a city unto my name upon the land opposite the city of Nauvoo, and let the name of Zarahemla be named upon it. (Alma 2:26, 5:2, 7:3-5, 8;1, 31:6, 56:25, 60:1; Hel. 1:18-27, 1:27-33, 7:1-6, 13:12; 3Ne. 8:8, 9:3, 8:24; 4Ne. 1:8)
+        </value>
+      </Data>
+      <Data name="picture">
+        <value>
+        /static/my_first_app/images/Zarahemla.PNG
+        </value>
+      </Data>
+    </ExtendedData>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
 
@@ -1460,6 +1472,18 @@ Possibly Nephi's Temple (2 Nephi 5:16)</value>
     </Placemark>
     <Placemark id="ID_00015">
       <name>HILL CUMORAH</name>
+      <ExtendedData>
+      <Data name="story">
+        <value>
+        This is the place where the original record of The Book of Mormon was found by Joseph Smith. Also, it is nearby place which two people (Nephites and Jaredites) in The Book of Mormon were destroyed. (Joseph Smith History in The Pearl of Great Price 1:51) (History of the Church, 1948 ed., vol.2, pp. 79-80) (Ether chapter 15 in The Book of Mormon) (Mormon chapter 8 in The Book of Mormon)
+        </value>
+      </Data>
+      <Data name="picture">
+        <value>
+        /static/my_first_app/images/Hill_Cumorah.jpg
+        </value>
+      </Data>
+    </ExtendedData>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
 
@@ -1556,6 +1580,20 @@ Possibly Nephi's Temple (2 Nephi 5:16)</value>
     </Placemark>
     <Placemark id="ID_00016">
       <name>NARROW PASS</name>
+       <ExtendedData>
+      <Data name="story">
+        <value>
+       Narrow (Pass) Neck (Where the sea divides the land)
+Niagara-From the Iriqiouian Word Niagagarega meaning “neck of land.
+Narrow pass leads by sea into land northward (Alma 50:34, 52:9, 63:5; Morm. 2:29, 3:5; Ether 10:20)
+        </value>
+      </Data>
+      <Data name="picture">
+        <value>
+        /static/my_first_app/images/Narrow_pass.png
+        </value>
+      </Data>
+    </ExtendedData>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
 
@@ -1652,6 +1690,19 @@ Possibly Nephi's Temple (2 Nephi 5:16)</value>
     </Placemark>
     <Placemark id="ID_00017">
       <name>WATERS OF MORMON</name>
+    <ExtendedData>
+      <Data name="story">
+        <value>
+       Big Springs, mo. Largest Natural Spring in North America.
+Converts are baptized in waters of Mormon (Mosiah 18:8-16, 30, 25:18, 26:15; Alma 5:3.)
+        </value>
+      </Data>
+      <Data name="picture">
+        <value>
+        /static/my_first_app/images/Waters_of_Mormon(1).jpg
+        </value>
+      </Data>
+    </ExtendedData>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
 
@@ -1748,6 +1799,18 @@ Possibly Nephi's Temple (2 Nephi 5:16)</value>
     </Placemark>
     <Placemark id="ID_00018">
       <name>MANTI</name>
+    <ExtendedData>
+      <Data name="story">
+        <value>
+The camp passed through Huntsville, in Randolph County…is the ancient site of the City of Manti. (Millennial Star, vol.16, p. 296) (Alma 16:6-7, 17:1, 22:27, 43:22, 43:24-25, 43:26, 43:27-54, 56:13-14, 58:26-30, 59:6)
+        </value>
+      </Data>
+      <Data name="picture">
+        <value>
+        /static/my_first_app/images/Waters_of_Mormon(1).jpg
+        </value>
+      </Data>
+    </ExtendedData>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
 
@@ -1844,6 +1907,18 @@ Possibly Nephi's Temple (2 Nephi 5:16)</value>
     </Placemark>
     <Placemark id="ID_00019">
       <name>ZELPH'S MOUND</name>
+    <ExtendedData>
+      <Data name="story">
+        <value>
+The zelph mound discovery during zion’s camp march after crossing the illinois river. June 3, 1834. It was made known to Joseph that he had been an officer who fell in battle, in the last destruction among the Lamanites, and his name was Zelph. (14 Times and Seasons, vol. 6, p. 788.)
+        </value>
+      </Data>
+      <Data name="picture">
+        <value>
+        /static/my_first_app/images/zelph-mound.jpg
+        </value>
+      </Data>
+    </ExtendedData>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
 
@@ -1940,6 +2015,18 @@ Possibly Nephi's Temple (2 Nephi 5:16)</value>
     </Placemark>
     <Placemark id="ID_00020">
       <name>NARROW STRIP OF WILDERNESS</name>
+    <ExtendedData>
+      <Data name="story">
+        <value>
+Mark Twain National Forest (Alma 22:27)
+        </value>
+      </Data>
+      <Data name="picture">
+        <value>
+        /static/my_first_app/images/Narrow_Strip_of_Wilderness.PNG
+        </value>
+      </Data>
+    </ExtendedData>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
 
@@ -2036,6 +2123,18 @@ Possibly Nephi's Temple (2 Nephi 5:16)</value>
     </Placemark>
     <Placemark id="ID_00021">
       <name>HEAD OF SIDON</name>
+    <ExtendedData>
+      <Data name="story">
+        <value>
+Headwaters “Confluence” of Mississippi and Ohio river. The source or headwaters of a river or stream is the furthest place in that river or stream from its estuary or confluence with another river (Wikipedia) (Alma 56:25, 43:22, 22:27, 22:29, 50:11)
+        </value>
+      </Data>
+      <Data name="picture">
+        <value>
+        /static/my_first_app/images/Head_of_Sidon.PNG
+        </value>
+      </Data>
+    </ExtendedData>
       <Snippet></Snippet>
       <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
 
